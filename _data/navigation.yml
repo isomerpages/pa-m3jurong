@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: About Us
+    url: /about-us/
+  - title: Our Programmes
+    url: /our-programmes/
+  - title: Join Us As A Volunteer
+    url: /join-us-as-a-volunteer/
+  - title: Example Collection
+    collection: example-collection
+  - title: Resources
+    resource_room: true
